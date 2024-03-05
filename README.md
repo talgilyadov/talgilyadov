@@ -19,25 +19,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=talgilyadov&show_icons=true&locale=en&layout=compact" alt="talgilyadov" /></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <!-- C# (35%) -->
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="35" height="35"/> 
-  </a> 
-  
-  <!-- Unity (35%) -->
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="35" height="35"/> 
-  </a> 
-  
-  <!-- Adobe Illustrator (25%) -->
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="25" height="25"/> 
-  </a> 
-  
-  <!-- Adobe Photoshop (4%) -->
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="4" height="4"/> 
-  </a> 
-</p>
